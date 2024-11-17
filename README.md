@@ -2,7 +2,7 @@
 
 Apoyate en los siguientes recursos para realizar la práctica:
 
-[U2: 3. Excepciones](https://revilofe.github.io/section1/u02/practica/PROG-U2.-Practica003/)
+[U3: 0. Cadenas](https://revilofe.github.io/section1/u03/practica/PROG-U3.-Practica000/)
 
 ---
 
